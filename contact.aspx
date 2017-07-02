@@ -20,7 +20,7 @@
 			<ul>
 				<li><a href="index.aspx">Trang chủ</a></li>
 				<li><a href="product.aspx">Sản phẩm</a></li>
-				<li><a href="contact.aspx">Liên hệ</a></li>
+				<li><a href="contact.aspx">Liênhệ</a></li>
 				<li><a href="#"></a></li>
                 <li></li>
 			</ul>
