@@ -43,7 +43,7 @@
                     </article>
                 <aside id="left_bot">
                     	<header id="left_top">Hình ảnh</header>
-                        <a href="#"><img src="image/27.jpg" height="126" width="161"></a>
+                        <a href="#"><img src="image/24.jpg" height="126" width="161"></a>
                     
                     </aside>
 			</article>
